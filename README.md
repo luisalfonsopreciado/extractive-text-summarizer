@@ -1,4 +1,4 @@
-An Extractive text summarizer based on word frequencies and spacy. Used as a baseline model for the final project.
+The Baseline model for the final project.
 
 # Requirements
 * Spacy
